@@ -1,7 +1,7 @@
 # Power BI Projects
 A collection of Power BI projects showcasing my skills in data visualization and analysis using Power BI.
 
-## 📊 Projects
+## Projects
 ### 1. Coffee Shop Revenue Analysis
 - **File:** `Coffee Shop Revenue.pbix`
 - **Source:** 'coffee-shop-sales-revenue.csv'
