@@ -1,5 +1,24 @@
-# Power BI Projects  
-A collection of Power BI projects showcasing my expertise in data visualization and analysis.
+# Power BI Projects
+
+A portfolio of data analysis and interactive dashboard projects, demonstrating expertise in Power BI, DAX, and data storytelling.
+
+## Key Skills Showcased
+**Data Transformation:** Cleaning, shaping, and modeling raw data for analysis.
+**DAX & Measures:** Creating complex calculations and KPIs.
+**Visual Storytelling:** Designing intuitive dashboards with actionable insights.
+**Performance Optimization:** Efficient data models and query tuning.
+
+## Projects Included
+- *Coffee Shop Revenue Analysis*
+
+**Tools:** Power BI, Power Query, DAX
+**Insights:** Sales trends, peak hours, top-selling products.
+
+- *Colorado Motor Vehicle Sales*
+
+**Tools:** Power BI, Geospatial visualization
+**Insights:** Regional sales performance, vehicle category trends.
+
 
 ---
 
