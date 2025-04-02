@@ -11,12 +11,12 @@ A portfolio of data analysis and interactive dashboard projects, demonstrating e
 ## Projects Included
 - *Coffee Shop Revenue Analysis*
 
-**Tools:** Power BI, Power Query, DAX
+**Tools:** Power BI, Power Query, DAX  
 **Insights:** Sales trends, peak hours, top-selling products.
 
 - *Colorado Motor Vehicle Sales*
 
-**Tools:** Power BI, Geospatial visualization
+**Tools:** Power BI, Geospatial visualization  
 **Insights:** Regional sales performance, vehicle category trends.
 
 
