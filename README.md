@@ -3,9 +3,9 @@
 A portfolio of data analysis and interactive dashboard projects, demonstrating expertise in Power BI, DAX, and data storytelling.
 
 ## Key Skills Showcased
-**Data Transformation:** Cleaning, shaping, and modeling raw data for analysis.
-**DAX & Measures:** Creating complex calculations and KPIs.
-**Visual Storytelling:** Designing intuitive dashboards with actionable insights.
+**Data Transformation:** Cleaning, shaping, and modeling raw data for analysis.  
+**DAX & Measures:** Creating complex calculations and KPIs.  
+**Visual Storytelling:** Designing intuitive dashboards with actionable insights.  
 **Performance Optimization:** Efficient data models and query tuning.
 
 ## Projects Included
