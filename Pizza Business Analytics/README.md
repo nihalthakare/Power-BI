@@ -3,8 +3,8 @@
 - **Data Source:** `Pizza_Sales.xlsx`
 
 #### Overview
-The Pizza Sales Performance Dashboard delivers an in-depth visualization of sales trends and product performance for the pizza business. 
-Built using Power BI, this dynamic dashboard equips stakeholders with the insights needed to optimize menu strategy, manage inventory, and boost revenue across locations.
+The Pizza Sales Performance Dashboard delivers an in-depth visualization of sales trends and product performance for the pizza business.  
+Built using Power BI, this dynamic dashboard equips stakeholders with the insights needed to optimize menu strategy, manage inventory, and boost revenue across locations.  
 With its intuitive design and real-time interactivity, the dashboard highlights key sales metrics, seasonal trends, customer order behavior, and product-level insights—helping businesses make smart decisions and improve daily operations.
 
 
