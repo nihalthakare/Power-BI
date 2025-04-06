@@ -41,7 +41,8 @@ With its intuitive design and real-time interactivity, the dashboard highlights 
 - Useful in setting realistic future sales goals and performance benchmarks.
 
 ___
-*Project Impact*  
+**Project Impact**  
+
 This dashboard demonstrates my capability to:
 - Build visually compelling reports
 - Perform business-oriented data analysis
