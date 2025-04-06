@@ -9,6 +9,10 @@ A portfolio of data analysis and interactive dashboard projects, demonstrating e
 - **Performance Optimization:** Efficient data models and query tuning.
 
 ## Projects Included
+*Pizza Business Analytics*
+- **Tools:** Power BI, DAX, Forecasting
+- **Insights:** Revenue trends, category performance, product-level profitability, peak hours and high-volume order days
+
 *Coffee Shop Revenue Analysis*
 
 - **Tools:** Power BI, Power Query, DAX  
